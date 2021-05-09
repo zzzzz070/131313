@@ -81,7 +81,7 @@
 
 }
 .g-h{
-    font-size: 20px;
+    font-size: 48px;
     margin-right: 3px;
 
 }
@@ -131,5 +131,29 @@
     .img1{
     transform: rotate(1deg);
     }
+    .g-h{
+        font-size: 24px;
+    }
 
+
+
+      .g-p{
+          font-size: 12px;
+      }
+      .text1{
+        font-size: 15px;
+
+    }
+    .text-THE{
+        font-size: 15px;
+    }
+    .text-DEEP{
+        font-size: 45px;
+    }
+    .text-111{
+        font-size: 13px;
+    }
+    .body{
+        height: 70vh;
+    }
     }
