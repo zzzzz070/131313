@@ -116,3 +116,14 @@
     font-size: 2vh;
     color: cornsilk;
 }
+@media all and (max-width: 400px){
+
+    .img2{
+        font-size: 20px;
+        color: rgb(0, 255, 76);
+    }
+    .img1{
+    transform: rotate(1deg);
+    }
+
+    }
