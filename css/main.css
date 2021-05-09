@@ -22,7 +22,7 @@
 }
 .text-cont{
     width: 40%;
-    margin: 50vh 0 0 30%;
+    margin: 50% 0 0 30%;
 }
 .text-THE{
     font-size: 20px;
@@ -81,8 +81,12 @@
 
 }
 .g-h{
-    font-size: 50px;
+    font-size: 20px;
+    margin-right: 3px;
 
+}
+.g-p{
+    font-size: 16px;
 }
 .container-tirdh{
     height: 50vh;
@@ -116,9 +120,11 @@
     font-size: 2vh;
     color: cornsilk;
 }
+
+
 @media all and (max-width: 400px){
 
-    .img2{
+    .st-hd{
         font-size: 20px;
         color: rgb(0, 255, 76);
     }
